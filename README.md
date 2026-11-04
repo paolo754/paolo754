@@ -1,22 +1,21 @@
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=paolo754&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52421988%3Fu%3D6e70aa245a445296ae78af3a7229dc58ec8ee86f%26v%3D4&role=Frontend+or+full-stack+engineer&mode=light" />
+  <img src="https://www.gitskins.com/api/section/neofetch?username=paolo754&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52421988%3Fu%3D6e70aa245a445296ae78af3a7229dc58ec8ee86f%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" width="100%" alt="Paolo: neofetch-style profile card" />
+</picture>
+</div>
 
 # Hi, I'm Paolo 👋
 
 I am a student who lives in France 🥐 !  
 My passion is coding and I plan to make it my job.  
-Currently a student at [EFREI](https://eng.efrei.fr/).  
 I also play the guitar :guitar: to enhance my day.<br>
 
 🧬 I like a lot of things in IT, from interface design, web / desktop and mobile application to backend and devops service creation.  
 ✒️ Pursuing a Master's degree in cybersecurity or AI research.  
 🔭 I’m currently working on **several secret projects** !
 
-💻 I use as development IDE [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) (For larger projects) and [Visual Studio Code](https://code.visualstudio.com/) (For the quick edition).
-  
-## <p>📞 &nbsp;Contact me on Discord :</p>
+## <p>📞 &nbsp;Contact me :</p>
 <a href="https://discord.com/users/477582590329749504" target="_blank">
   <img src="https://discord.c99.nl/widget/theme-4/477582590329749504.png">
 </a>
-
-## Wakatime stats :
-<a href="https://wakatime.com/@fa794658-052c-46a2-941e-4dc515574900"><img src="https://wakatime.com/badge/user/fa794658-052c-46a2-941e-4dc515574900.svg" alt="Total time coded since Aug 4 2021" /></a>
